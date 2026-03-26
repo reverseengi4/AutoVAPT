@@ -1,0 +1,6 @@
+src/components/layout/Header.tsx(2,24): error TS6133: 'User' is declared but its value is never read.
+src/components/layout/Header.tsx(2,30): error TS6133: 'ShieldCheck' is declared but its value is never read.
+src/pages/AutoPentestPage.tsx(120,9): error TS6133: 'navigate' is declared but its value is never read.
+src/pages/AutoPentestPage.tsx(138,20): error TS6133: 'setShowLogs' is declared but its value is never read.
+src/pages/HomePage.tsx(5,10): error TS6133: 'FileText' is declared but its value is never read.
+src/pages/HomePage.tsx(152,45): error TS6133: 'index' is declared but its value is never read.

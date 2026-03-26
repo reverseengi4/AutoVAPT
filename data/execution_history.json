@@ -1,0 +1,102 @@
+{
+  "attacks": [
+    {
+      "tech": [
+        "Server: LiteSpeed"
+      ],
+      "vuln_type": "clickjacking",
+      "target_domain": "letsprotectyou.com",
+      "success": true,
+      "evidence_preview": "X-Frame-Options: Not set\nCSP: Not set",
+      "timestamp": "2026-02-18T10:36:56.192761"
+    },
+    {
+      "tech": [
+        "Server: LiteSpeed"
+      ],
+      "vuln_type": "missing_hsts",
+      "target_domain": "letsprotectyou.com",
+      "success": true,
+      "evidence_preview": "Strict-Transport-Security: Not set",
+      "timestamp": "2026-02-18T10:36:56.508556"
+    },
+    {
+      "tech": [
+        "Server: LiteSpeed"
+      ],
+      "vuln_type": "missing_xcto",
+      "target_domain": "letsprotectyou.com",
+      "success": true,
+      "evidence_preview": "X-Content-Type-Options: Not set",
+      "timestamp": "2026-02-18T10:36:56.810944"
+    },
+    {
+      "tech": [
+        "Server: LiteSpeed"
+      ],
+      "vuln_type": "missing_csp",
+      "target_domain": "letsprotectyou.com",
+      "success": true,
+      "evidence_preview": "Content-Security-Policy: Not set",
+      "timestamp": "2026-02-18T10:36:57.086485"
+    },
+    {
+      "tech": [
+        "Server: LiteSpeed"
+      ],
+      "vuln_type": "ssl_issues",
+      "target_domain": "letsprotectyou.com",
+      "success": true,
+      "evidence_preview": "HSTS header missing from HTTPS response",
+      "timestamp": "2026-02-18T10:37:01.923573"
+    },
+    {
+      "tech": [
+        "Server: cloudflare",
+        "WAF:cloudflare (100%)"
+      ],
+      "vuln_type": "clickjacking",
+      "target_domain": "altechnovations.com",
+      "success": true,
+      "evidence_preview": "X-Frame-Options: Not set\nCSP: upgrade-insecure-requests",
+      "timestamp": "2026-02-18T13:14:14.220228"
+    }
+  ],
+  "tech_success": {
+    "server: litespeed": {
+      "clickjacking": {
+        "success": 1,
+        "fail": 0
+      },
+      "missing_hsts": {
+        "success": 1,
+        "fail": 0
+      },
+      "missing_xcto": {
+        "success": 1,
+        "fail": 0
+      },
+      "missing_csp": {
+        "success": 1,
+        "fail": 0
+      },
+      "ssl_issues": {
+        "success": 1,
+        "fail": 0
+      }
+    },
+    "server: cloudflare": {
+      "clickjacking": {
+        "success": 1,
+        "fail": 0
+      }
+    },
+    "waf:cloudflare (100%)": {
+      "clickjacking": {
+        "success": 1,
+        "fail": 0
+      }
+    }
+  },
+  "saved_at": "2026-02-18T13:15:15.847805"
+}

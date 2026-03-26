@@ -1,0 +1,555 @@
+{
+  "records": [
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:03.059694"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:04.836843"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:06.516654"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:08.316518"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:12.752369"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/admin",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:17.989812"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/admin",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:19.983662"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/admin",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:21.645678"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/admin",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:23.329646"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/admin",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:24.944316"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/profile",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:30.218694"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/profile",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:31.900094"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/profile",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:33.670754"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/profile",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:35.364594"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/profile",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:37.023920"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/users",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:42.333211"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/users",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:44.013181"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/users",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:45.694788"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/users",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:47.381555"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/users",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T18:33:49.103546"
+    },
+    {
+      "vuln_type": "ssti",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=30 verdict=rejected",
+      "timestamp": "2026-02-18T20:02:18.570846"
+    },
+    {
+      "vuln_type": "ssti",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=30 verdict=rejected",
+      "timestamp": "2026-02-18T20:02:21.267931"
+    },
+    {
+      "vuln_type": "ssti",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=30 verdict=rejected",
+      "timestamp": "2026-02-18T20:02:23.145681"
+    },
+    {
+      "vuln_type": "ssti",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=30 verdict=rejected",
+      "timestamp": "2026-02-18T20:02:25.431061"
+    },
+    {
+      "vuln_type": "ssti",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=30 verdict=rejected",
+      "timestamp": "2026-02-18T20:02:27.384720"
+    },
+    {
+      "vuln_type": "ssti",
+      "target_url": "https://altechnovations.com/profile",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=30 verdict=rejected",
+      "timestamp": "2026-02-18T20:02:33.068768"
+    },
+    {
+      "vuln_type": "ssti",
+      "target_url": "https://altechnovations.com/profile",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=30 verdict=rejected",
+      "timestamp": "2026-02-18T20:02:34.971357"
+    },
+    {
+      "vuln_type": "ssti",
+      "target_url": "https://altechnovations.com/profile",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=30 verdict=rejected",
+      "timestamp": "2026-02-18T20:02:37.213219"
+    },
+    {
+      "vuln_type": "ssti",
+      "target_url": "https://altechnovations.com/profile",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=30 verdict=rejected",
+      "timestamp": "2026-02-18T20:02:39.209308"
+    },
+    {
+      "vuln_type": "ssti",
+      "target_url": "https://altechnovations.com/profile",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=30 verdict=rejected",
+      "timestamp": "2026-02-18T20:02:41.530826"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T20:06:18.322530"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T20:06:20.338540"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T20:06:22.191830"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T20:06:23.880790"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T20:06:25.638475"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/admin/login",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T20:06:38.778080"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/admin/login",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T20:06:40.503840"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/admin/login",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T20:06:42.341463"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/admin/login",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T20:06:44.020422"
+    },
+    {
+      "vuln_type": "command_injection",
+      "target_url": "https://altechnovations.com/admin/login",
+      "status_code": 200,
+      "response_length": 5870,
+      "is_true_positive": false,
+      "pattern_type": "cross_user_data",
+      "key_indicators": [
+        "has_name"
+      ],
+      "notes": "score=0 verdict=rejected",
+      "timestamp": "2026-02-18T20:06:45.717806"
+    }
+  ],
+  "patterns": [
+    {
+      "pattern_type": "cross_user_data",
+      "indicators": [
+        "has_name"
+      ],
+      "is_false_positive": true,
+      "confidence": 0.7,
+      "example_body": "<!doctype html>\n<html lang=\"en\">\n\t<head>\n\t\t<meta charset=\"UTF-8\" />\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n\t\t<link rel=\"icon\" type=\"image/png\" href=\"/logo-al.png\" />\n\t\t<link rel=\"apple-touch-icon\" href=\"/logo-al.png\" />\n\t\t<link rel=\"manifest\" href=\"/manifest.json\" />\n\t\t<meta name=\"generator\" content=\"Hostinger Horizons\" />\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\t\t<meta name=\"theme-color\" content=\"#FF1A1A\" />\n\t\t<title>AL Technov",
+      "vuln_type": "command_injection",
+      "target_domain": "altechnovations.com",
+      "timestamp": "2026-02-18T18:33:03.059694"
+    },
+    {
+      "pattern_type": "cross_user_data",
+      "indicators": [
+        "has_name"
+      ],
+      "is_false_positive": true,
+      "confidence": 0.7,
+      "example_body": "<!doctype html>\n<html lang=\"en\">\n\t<head>\n\t\t<meta charset=\"UTF-8\" />\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n\t\t<link rel=\"icon\" type=\"image/png\" href=\"/logo-al.png\" />\n\t\t<link rel=\"apple-touch-icon\" href=\"/logo-al.png\" />\n\t\t<link rel=\"manifest\" href=\"/manifest.json\" />\n\t\t<meta name=\"generator\" content=\"Hostinger Horizons\" />\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\t\t<meta name=\"theme-color\" content=\"#FF1A1A\" />\n\t\t<title>AL Technov",
+      "vuln_type": "ssti",
+      "target_domain": "altechnovations.com",
+      "timestamp": "2026-02-18T20:02:18.570846"
+    }
+  ],
+  "metadata": {
+    "total_records": 40,
+    "total_patterns": 2,
+    "last_updated": "2026-02-18T20:06:45.720929"
+  }
+}
